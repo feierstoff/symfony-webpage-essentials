@@ -1,0 +1,8 @@
+{
+  "name": "@feierstoff/symfony-webpage-essentials",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/feierstoff/symfony-webpage-essentials"
+  }
+}
